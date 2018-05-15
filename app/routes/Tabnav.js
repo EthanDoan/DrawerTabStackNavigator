@@ -20,7 +20,7 @@ const tabNav = TabNavigator({
         }
     }
     ///... add more tabs here
-
+    
 }, {
         tabBarOptions: {
             activeTintColor: '#222',

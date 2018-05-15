@@ -26,4 +26,4 @@ const StackNav = StackNavigator({
     }
 })
 
-export default StackNav;
+export default StackNav
